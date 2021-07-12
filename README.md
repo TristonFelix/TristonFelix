@@ -40,14 +40,14 @@ Markdown     30 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-🚧 **my todoist stats:**
+<!-- 
+🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
 🏆  7,936 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 663 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+TODO-IST:END
 
 
 📈 my github stats
