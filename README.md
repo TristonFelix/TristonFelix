@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...//
 - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about Life, Projects im working on 
+<!-- - 💬 Ask me about Life, Projects im working on 
 - 📫 How to reach me: <a href="https://twitter.com/TristonFelix">Twitter</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My ❤ is on the wrong side.
-
+ -->
