@@ -15,8 +15,7 @@ Hi, I'm [Triston](https://Tristonf.dev/), a self-taught always learning web deve
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:triston@interxet.net) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 Need to get in touch?  Send me an email, [email](mailto:triston@interxet.net) :)
 
 **languages and tools:**  
 
