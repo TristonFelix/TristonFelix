@@ -10,12 +10,16 @@
 
 <br />
 
-Hi, I'm [Triston](https://Tristonf.dev/), a self-taught always learning web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Triston](https://Tristonf.dev/), a self-taught always learning web developer. 
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="320" />
-  
-- 💬 Need to get in touch?  Send me an email, [email](mailto:triston@interxet.net) :)
+
+- 🔭 I’m currently working on **Home Assistant**
+
+- 🌱 I’m currently learning **React**  
+
+- 💬 Need to get in touch?  Send me an email. [email](mailto:triston@interxet.net)
 
 **languages and tools:**  
 
@@ -36,16 +40,6 @@ CSS          7 mins          ██░░░░░░░░░░░░░░░
 TypeScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 <!--END_SECTION:waka-->
-
-<!-- 
-🚧 **my todoist stats:** -->
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-TODO-IST:END
-
 
 📈 my github stats
 
