@@ -32,7 +32,7 @@ Hi, I'm [Triston](https://Tristonf.dev/), a self-taught always learning web deve
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 6 mins    █████████████████████████   99.93 % 
+JavaScript   7 hrs 20 mins   █████████████████████████   99.84 % 
 ```
 <!--END_SECTION:waka-->
 
