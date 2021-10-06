@@ -32,10 +32,7 @@ Hi, I'm [Triston](https://Tristonf.dev/), a self-taught always learning web deve
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python       13 mins         ████████████████░░░░░░░░░   63.45 % 
-JavaScript   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-JSON         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
