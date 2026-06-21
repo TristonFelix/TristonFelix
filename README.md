@@ -13,7 +13,7 @@
 - 🔭 Building **[TristonOS](https://tristonf.dev/)** — a portfolio that runs like a desktop OS (React + Vite, on Cloudflare Pages)
 - ⚙️ Day to day in **Azure / Entra ID, Cloudflare, and Microsoft 365** — identity, automation, and networking
 - 🌱 Always learning — currently going deeper on **React** and infra-as-code
-- 💬 Reach me on LinkedIn or at **triston@interxet.net**
+- 💬 Reach me on LinkedIn
 
 ### Languages & Tools
 
