@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Triston 👋</h1>
-<p align="center"><b>Cloud &amp; Identity Engineer</b> — I build and automate identity, cloud, and networking systems, and I craft the web on the side.</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tristonfelix/"><img src="https://img.shields.io/badge/LinkedIn-4795D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://tristonf.dev/"><img src="https://img.shields.io/badge/Portfolio-4795D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
@@ -30,7 +28,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
