@@ -20,16 +20,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-### 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tristonfelix&show_icons=true&hide_border=true&title_color=4795D4&icon_color=5FA6DC&text_color=9ECAE8&bg_color=232323" alt="Triston's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tristonfelix&layout=compact&hide_border=true&title_color=4795D4&text_color=9ECAE8&bg_color=232323" alt="Top languages" />
-</p>
